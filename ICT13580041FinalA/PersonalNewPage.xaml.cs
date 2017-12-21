@@ -32,6 +32,8 @@ namespace ICT13580041FinalA
             partPicker.Items.Add("ทรัพยากรบุคคล");
 
 
+           
+
 
 
 

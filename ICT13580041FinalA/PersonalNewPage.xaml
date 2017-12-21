@@ -171,7 +171,7 @@
                         x:Name="saveButton"
                         Text="บันทึก"
                         TextColor="White"
-                        BackgroundColor="Red"
+                        BackgroundColor="Green"
                         Grid.Column="1"/>
 
                     </Grid> 
